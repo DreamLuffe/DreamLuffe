@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/github/commit-activity/w/DreamLuffe/DreamLuffe.github.io
+<img src="https://img.shields.io/github/commit-activity/w/DreamLuffe/DreamLuffe.github.io"></img>
+
