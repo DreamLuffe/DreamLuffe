@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-/appveyor/build/:DreamLuffe/:DreamLuffe.github.io/:master
+https://img.shields.io/github/commit-activity/w/DreamLuffe/DreamLuffe.github.io
