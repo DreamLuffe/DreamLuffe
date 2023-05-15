@@ -216,5 +216,4 @@ Here are some ideas to get you started:
   <p><small><a href="mailto:DreamLuffe@163.com">Call Me♥</a></small></p>
 
 </div>
-<img src="https://img.shields.io/github/commit-activity/w/DreamLuffe/DreamLuffe.github.io"></img>
 
